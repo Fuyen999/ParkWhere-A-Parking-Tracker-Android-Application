@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_history">History</string>
+    <string name="title_tracking">Tracking</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_name">Please Enter Name</string>
+    <string name="invalid_email">Please enter valid email</string>
+
+    <string-array name="vehicleType">
+        <item>Car</item>
+        <item>Light Vehicle</item>
+        <item>Motorcycle</item>
+    </string-array>
+
+</resources>
